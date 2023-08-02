@@ -17,5 +17,4 @@ The modeling phase involved applying various machine learning models to the prep
 In the final metrics evaluation stage, the selected model's performance was assessed against the business objectives. The dataset was split into training and testing sets. Performance metrics such as Accuracy score, Precision score, Recall score, and F1 score were calculated on the test set. For visual and tabular representation of the evaluation results, a confusion matrix and Classification report were used.
 
 
-:arrow_forward: &nbsp; **View Live Application Demonstration [here](https://youtu.be/X0L1zX-lW5Y)**
-
+:arrow_forward: &nbsp; **View Live Application Demonstration [here](https://youtu.be/7owQYeBYb3s)**
