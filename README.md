@@ -15,3 +15,7 @@ In the data preparation phase, data processing techniques were applied to clean 
 The modeling phase involved applying various machine learning models to the prepared data. Initially, Naive Bayes was employed, followed by other models such as Multi-Layer Perceptron (MLP) and Gradient Boosting classifiers. A K-Fold method was utilized to split the dataset into train and test subsets, ensuring uniform class distribution. The GridSearchCV pipeline from sklearn.model_selection was integrated to evaluate model performance with different hyperparameters. Multiple versions of the classifier were trained in parallel, and the configuration producing the most impressive results on evaluation metrics was selected.
 
 In the final metrics evaluation stage, the selected model's performance was assessed against the business objectives. The dataset was split into training and testing sets. Performance metrics such as Accuracy score, Precision score, Recall score, and F1 score were calculated on the test set. For visual and tabular representation of the evaluation results, a confusion matrix and Classification report were used.
+
+
+:arrow_forward: &nbsp; **View Live Application Demonstration [here](https://youtu.be/X0L1zX-lW5Y)**
+
